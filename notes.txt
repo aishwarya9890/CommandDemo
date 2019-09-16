@@ -1,0 +1,38 @@
+{
+"first_name":"ariana",
+"last_name":"grande",
+"company_name":"jsai",
+"website":"www.gc.com",
+"address":"s.b.road",
+"estimated_no_of_stores":2,
+"industry":"software",
+"preferred_currency":"indian",
+"mobile_no":"5689897",
+"user":{
+"username":"aria",
+"password":"ari@123"
+}
+
+}
+
+//add end user
+
+{
+"first_name":"Cardi",
+"last_name":"B",
+"mobile_no":"326549415254"
+}
+
+// add agent
+
+{
+	"username":"ariana",
+	"password":"ari@123",
+	"active":1
+}
+
+//Key 
+
+basic a2VuZGFsOmtlbmRhbEAxMjM=
+
+
